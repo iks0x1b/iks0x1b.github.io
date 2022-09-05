@@ -9,8 +9,11 @@ description: "Some notes from Chapter 1 of 'THE ART OF CLEAN CODE' by Christian 
 ## Step three is ensuring your code is consistently written in this way.
 
 As a developer, the reality in 2022 is that no one is doing anything new in most modern languages.
+
 Assuming this to be true what can one even do to improve the work you output?
+
 We can explicitly take steps to reduce the complexity of our code, for both machines and humans to process.
+
 We should prefer clarity in the former unless requirements dictate otherwise.
 
 ### Complexity
@@ -25,6 +28,10 @@ I urge us to look up best practices and stick to them, possibly even introduce s
 
 We should review known antipatterns before calling our problems solved, thankfully pylint can catch some of these when used correctly with a reasonable false positive rate.
 
+### Links
+
 Source: https://nostarch.com/art-clean-code
+
 Pylint: https://pylint.pycqa.org/en/latest/
+
 Black: https://black.readthedocs.io/en/stable/
