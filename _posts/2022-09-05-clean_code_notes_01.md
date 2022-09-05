@@ -30,8 +30,8 @@ We should review known antipatterns before calling our problems solved, thankful
 
 ### Links
 
-Source: https://nostarch.com/art-clean-code
+Source: [https://nostarch.com/art-clean-code](https://nostarch.com/art-clean-code)
 
-Pylint: https://pylint.pycqa.org/en/latest/
+Pylint: [https://pylint.pycqa.org/en/latest/](https://pylint.pycqa.org/en/latest/)
 
-Black: https://black.readthedocs.io/en/stable/
+Black: [https://black.readthedocs.io/en/stable/](https://black.readthedocs.io/en/stable/)
